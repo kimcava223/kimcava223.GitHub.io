@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
-![100_0388](https://user-images.githubusercontent.com/38884273/39476137-ef5def04-4d28-11e8-9595-2b26ef44c87f.JPG)
+## Let's use GitHub 
+<a target="_blank" href="https://user-images.githubusercontent.com/38884273/39476137-ef5def04-4d28-11e8-9595-2b26ef44c87f.JPG"> 
+ <img width="350" alt="For Betty" src="https://user-images.githubusercontent.com/38884273/39476137-ef5def04-4d28-11e8-9595-2b26ef44c87f.JPG"/></a>
 
 You can use the [editor on GitHub](https://github.com/kimcava223/kimcava223.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
