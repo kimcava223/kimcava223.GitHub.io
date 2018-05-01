@@ -1,4 +1,4 @@
-## Let's use GitHub 
+﻿## Let's use GitHub 
 <a target="_blank" href="https://user-images.githubusercontent.com/38884273/39476137-ef5def04-4d28-11e8-9595-2b26ef44c87f.JPG"> 
  <img width="350" alt="For Betty" src="https://user-images.githubusercontent.com/38884273/39476137-ef5def04-4d28-11e8-9595-2b26ef44c87f.JPG"/></a>
 
@@ -21,6 +21,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. smile
+
 
 **Bold** and _Italic_ and `Code` text
 
